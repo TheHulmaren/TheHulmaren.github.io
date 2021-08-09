@@ -1,0 +1,133 @@
+
+    [
+        {
+            "date": "August 7, 2021",
+            "movies": [
+                {
+                    "title": "Star Wars: Episode 1",
+                    "duration": 130,
+                    "showtime": [
+                        [
+                            "10:10",
+                            "A2"
+                        ],
+                        [
+                            "14:00",
+                            "B3"
+                        ],
+                        [
+                            "13:30",
+                            "B2"
+                        ]
+                    ],
+                    "age": 13,
+                    "poster": "https://upload.wikimedia.org/wikipedia/en/4/40/Star_Wars_Phantom_Menace_poster.jpg"
+                },
+                {
+                    "title": "Mulholland Drive",
+                    "duration": 130,
+                    "showtime": [
+                        [
+                            "9:00",
+                            "A1"
+                        ],
+                        [
+                            "11:25",
+                            "B3"
+                        ],
+                        [
+                            "15:30",
+                            "B2"
+                        ]
+                    ],
+                    "age": 18,
+                    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0f/Mulholland.png"
+                },
+                {
+                    "title": "The Last Emperor",
+                    "duration": 130,
+                    "showtime": [
+                        [
+                            "11:00",
+                            "A3"
+                        ],
+                        [
+                            "18:45",
+                            "B2"
+                        ],
+                        [
+                            "20:15",
+                            "B1"
+                        ]
+                    ],
+                    "age": 18,
+                    "poster": "https://upload.wikimedia.org/wikipedia/en/e/e5/The_Last_Emperor_filmposter.jpg"
+                }
+            ]
+        },
+        {
+            "date": "August 8, 2021",
+            "movies": [
+                {
+                    "title": "Django Unchained",
+                    "duration": 120,
+                    "showtime": [
+                        [
+                            "10:100",
+                            "A2"
+                        ],
+                        [
+                            "14:00",
+                            "B3"
+                        ],
+                        [
+                            "13:30",
+                            "B2"
+                        ]
+                    ],
+                    "age": 13,
+                    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8b/Django_Unchained_Poster.jpg"
+                },
+                {
+                    "title": "Titanic",
+                    "duration": 130,
+                    "showtime": [
+                        [
+                            "9:00",
+                            "A1"
+                        ],
+                        [
+                            "11:25",
+                            "B3"
+                        ],
+                        [
+                            "15:30",
+                            "B2"
+                        ]
+                    ],
+                    "age": 18,
+                    "poster": "https://upload.wikimedia.org/wikipedia/en/1/19/Titanic_%28Official_Film_Poster%29.png"
+                },
+                {
+                    "title": "Parasite",
+                    "duration": 130,
+                    "showtime": [
+                        [
+                            "11:00",
+                            "A3"
+                        ],
+                        [
+                            "18:45",
+                            "B2"
+                        ],
+                        [
+                            "20:150",
+                            "B1"
+                        ]
+                    ],
+                    "age": 18,
+                    "poster": "https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png"
+                }
+            ]
+        }
+    ]
